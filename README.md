@@ -53,4 +53,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ### Author
 **Ridham Garg**  
 B.Tech 3rd Year  
-Thapar University
+Thapar Institue of Engineering and Technology (Patiala)
